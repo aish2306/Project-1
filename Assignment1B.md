@@ -31,7 +31,7 @@ This will happen due to the usage of an even sized kernel. Therefore, even sized
 
 # Question 3: How many times do we need to perform 3x3 convolution operation to reach 1x1 from 199x199 (show calculations)
 # Answer 3:
-We need to perform 100 3*3 convolution operations to reach 1*1 from 199*199
+We need to perform 100 3x3 convolution operations to reach 1x1 from 199x199
 
 (3x3) on (199x199),(3x3) on (197x197),(3x3) on (195x195),(3x3) on (193x193),(3x3) on (191x191),
 (3x3) on (189x189),(3x3) on (187x187),(3x3) on (185x185),(3x3) on (183x183),(3x3) on (181x181),
